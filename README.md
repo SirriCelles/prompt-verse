@@ -1,5 +1,5 @@
 # Project Name
-> PromptVerse
+> PromptVerse:
 > PromptVerse is an open-source AI prompting tool for modern worl to  discover, create and share creative prompts.
 
 ## Live Demo ()
