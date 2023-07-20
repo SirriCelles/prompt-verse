@@ -12,13 +12,13 @@ This is hosted on the live demo link below.
 [Live Demo Link](https://prompt-verse-3r7hzwsdy-sirricelles.vercel.app/)
 
 ## Built With
-### Languages, Framworks and Libraries and Tools:
+### Languages, Frameworks and Libraries and Tools:
 - HTML
 - CSS
 - JavaScript
 - React
 - Nextjs
-- Tailwind Css
+- Tailwind CSS
 - MongoDB
 ## Getting Started
 
