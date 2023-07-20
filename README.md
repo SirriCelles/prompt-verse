@@ -1,18 +1,21 @@
 # Project Name
 > PromptVerse:
-> PromptVerse is an open-source AI prompting tool for modern worl to  discover, create and share creative prompts.
+> PromptVerse is an open-source AI prompting tool to discover, create and share creative prompts for the modern world.
+> 
+> <img width="1680" alt="Screen Shot 2023-07-21 at 12 03 49 AM" src="https://github.com/SirriCelles/prompt-verse/assets/42035795/2e208cf4-e1ed-4b64-b801-48e2020a874d">
 
-## Live Demo ()
+
+## Live Demo  [PromtVerse](https://prompt-verse-3r7hzwsdy-sirricelles.vercel.app/)
 
 This is hosted on the live demo link below.
 
-[Live Demo Link]()
+[Live Demo Link](https://prompt-verse-3r7hzwsdy-sirricelles.vercel.app/)
+
 ## Built With
-### Languages:
+### Languages, Framworks and Libraries and Tools:
 - HTML
 - CSS
 - JavaScript
-###  Framworks and Libraries and Tools
 - React
 - Nextjs
 - Tailwind Css
