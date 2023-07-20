@@ -6,6 +6,12 @@ const nextConfig = {
     // serverComponentsExternalPackages: ["mongoose"],
   },
   images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'images.unsplash.com',
+      },
+    ],
     domains: ['lh3.googleusercontent.com'],
   },
   webpack(config) {
