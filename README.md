@@ -70,4 +70,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- [JavaScriptMastery](https://github.com/adrianhajdin)
+- [JavaScriptMastery](https://www.jsmastery.pro/)
